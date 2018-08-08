@@ -1,0 +1,10 @@
+{
+  "name": "ember-data-react",
+  "version": "0.1.0",
+  "description": "Ember-Data for React",
+  "scripts": {
+    "open": "xdg-open 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'",
+    "preinstall": "npm run open",
+    "test": "npm run open"
+  }
+}
